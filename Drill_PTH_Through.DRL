@@ -1,6 +1,6 @@
 ;TYPE=PLATED
 ;Layer: PTH_Through
-;EasyEDA Pro Client v3.2.209, 2026-11-03 07:25:07
+;EasyEDA Pro Client v3.2.209, 2026-11-03 07:53:50
 ;Gerber Generator version 0.3
 M48
 METRIC,LZ,0000.00000
@@ -10,6 +10,6 @@ T01C1.00000
 G05
 G90
 T01
-X3.175Y-5.08
-X5.715Y-5.08
+X8.001Y-6.477
+X10.541Y-6.477
 M30
